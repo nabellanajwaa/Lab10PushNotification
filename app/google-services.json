@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "643403718331",
+    "firebase_url": "https://pushbella-ef99e.firebaseio.com",
+    "project_id": "pushbella-ef99e",
+    "storage_bucket": "pushbella-ef99e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643403718331:android:6f99dc66ae58e8d7",
+        "android_client_info": {
+          "package_name": "com.example.asus.lab10pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643403718331-nns4manotm036nj86132auiguivu9d0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-fDjtBkb1qH35Um0Nd96QpKMBcia72A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
